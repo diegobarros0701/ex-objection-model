@@ -1,5 +1,5 @@
 {
-  "name": "ex-objection-query-builder",
+  "name": "ex-objection-model",
   "version": "1.0.0",
   "description": "An extended model for Objection.js",
   "main": "index.js",
