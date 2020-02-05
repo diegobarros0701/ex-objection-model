@@ -1,0 +1,26 @@
+{
+  "name": "ex-objection-query-builder",
+  "version": "1.0.0",
+  "description": "An extended model for Objection.js",
+  "main": "index.js",
+  "author": {
+    "name": "Diego Barros",
+    "email": "diegobarros2812@gmail.com",
+    "url": "https://github.com/diegobarros0701"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegobarros0701/ex-objection-model.git"
+  },
+  "keywords": [
+    "objection",
+    "js",
+    "model",
+    "extended"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "ex-objection-query-builder": "^1.1.2",
+    "objection": "^2.1.2"
+  }
+}
